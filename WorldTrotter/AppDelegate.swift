@@ -1,5 +1,5 @@
 //
-//  Copyright © 2015 Big Nerd Ranch
+//  iOS Adaptive Layout Lesson
 //
 
 import UIKit
